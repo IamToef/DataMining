@@ -1,1 +1,2 @@
 # DataMining
+Tui đã xem và lọc lại tất cả những tinh hoa ở trong môn này, mỗi nhóm sẽ có 1 bộ dữ liệu và 1 code. Đồng thời theo thứ tự của các nhóm thuyết trình cũng như thuật toán nhóm đó thuyết trình. Bro nào muốn vô git thì gửi email tui add vô nha
